@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Survie Windows pour Lionel</title>
+<style>
+body{font-family:Arial,sans-serif;background:#eef3f8;margin:0;padding:20px}
+.box{max-width:1000px;margin:auto;background:white;padding:25px;border-radius:15px;box-shadow:0 0 10px #bbb}
+h1{text-align:center}
+h2{background:#dfefff;padding:8px;border-radius:8px}
+table{width:100%;border-collapse:collapse}
+th,td{border:1px solid #ccc;padding:10px}
+th{background:#f0f0f0}
+.important{background:#fff4cc;border:2px solid #f0c000;padding:12px;border-radius:10px}
+.big{font-size:1.2em;font-weight:bold}
+</style>
+</head>
+<body>
+<div class="box">
+<h1>🖥️ SURVIE WINDOWS POUR LIONEL</h1>
+<p><b>Objectif :</b> retrouver rapidement les manipulations les plus utiles du quotidien.</p>
+
+<div class="important">
+<h2>🏆 Les 5 raccourcis indispensables</h2>
+<p class="big">Ctrl+C = Copier<br>
+Ctrl+V = Coller<br>
+Ctrl+X = Couper<br>
+Ctrl+A = Tout sélectionner<br>
+Ctrl+Z = Annuler</p>
+</div>
+
+<h2>⌨️ Raccourcis utiles</h2>
+<table>
+<tr><th>Je veux...</th><th>Comment faire</th></tr>
+<tr><td>Plein écran</td><td>F11</td></tr>
+<tr><td>Changer de fenêtre</td><td>Alt + Tab</td></tr>
+<tr><td>Afficher le bureau</td><td>Windows + D</td></tr>
+<tr><td>Faire une capture d'écran</td><td>Windows + Maj + S</td></tr>
+<tr><td>Trouver mes téléchargements</td><td>Ctrl + J dans Chrome/Firefox</td></tr>
+</table>
+
+<h2>📁 Fichiers et dossiers</h2>
+<table>
+<tr><th>Je veux...</th><th>Comment faire</th></tr>
+<tr><td>Renommer un fichier</td><td>Clic droit → Renommer</td></tr>
+<tr><td>Copier un fichier</td><td>Clic droit → Copier puis Coller</td></tr>
+<tr><td>Supprimer un fichier</td><td>Touche Suppr ou clic droit → Supprimer</td></tr>
+<tr><td>Ouvrir l'explorateur Windows</td><td>Windows + E</td></tr>
+<tr><td>Créer un raccourci sur le bureau</td><td>Clic droit → Envoyer vers → Bureau</td></tr>
+</table>
+
+<h2>🌐 Internet</h2>
+<table>
+<tr><th>Je veux...</th><th>Comment faire</th></tr>
+<tr><td>Actualiser une page</td><td>F5</td></tr>
+<tr><td>Ouvrir un nouvel onglet</td><td>Ctrl + T</td></tr>
+<tr><td>Fermer un onglet</td><td>Ctrl + W</td></tr>
+<tr><td>Réouvrir un onglet fermé</td><td>Ctrl + Maj + T</td></tr>
+<tr><td>Rechercher un mot</td><td>Ctrl + F</td></tr>
+</table>
+
+<h2>💡 Astuces à retenir</h2>
+<ul>
+<li>Un fichier HTML doit finir par <b>.html</b></li>
+<li>Un fichier texte classique finit par <b>.txt</b></li>
+<li>Si tu ne trouves plus une fenêtre : <b>Alt + Tab</b></li>
+<li>Si tout disparaît : <b>Windows + D</b> pour revenir au bureau</li>
+<li>Avant de fermer un document important : <b>Ctrl + S</b></li>
+</ul>
+
+<p style="text-align:center;font-size:20px;"><b>😄 Pas besoin de tout retenir. Garde cette fiche sur le bureau !</b></p>
+</div>
+</body>
+</html>
